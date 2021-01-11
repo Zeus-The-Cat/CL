@@ -1,0 +1,23 @@
+{
+  "name": "CL",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zeus-The-Cat/CL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zeus-The-Cat/CL/issues"
+  },
+  "homepage": "https://github.com/Zeus-The-Cat/CL#readme",
+  "dependencies": {
+    "mongodb": "^3.6.3"
+  }
+}
